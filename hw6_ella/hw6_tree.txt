@@ -1,0 +1,26 @@
+Internal node
+Is it bigger than a breadbox?
+Internal node
+Is it gray?
+Internal node
+is it in the air?
+Leaf
+clouds
+Leaf
+an elephant
+Leaf
+a tiger
+Internal node
+is it black?
+Internal node
+is it alive?
+Leaf
+an ant
+Leaf
+an ink dot
+Internal node
+ Can it be recharged?
+Leaf
+an airpod
+Leaf
+a mouse
